@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="app_name">AIEP Semana 4</string>
+    <string name="gcm_defaultSenderId" translatable="false">802110129837</string>
+    <string name="google_api_key" translatable="false">AIzaSyAHfybzCQK9FRn_47JCTaoRTM5ST_9a7Rc</string>
+    <string name="google_app_id" translatable="false">1:802110129837:android:1ad103f77b6a100e20a824</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAHfybzCQK9FRn_47JCTaoRTM5ST_9a7Rc</string>
+    <string name="google_storage_bucket" translatable="false">distribuidoraapp-1c333.firebasestorage.app</string>
+    <string name="project_id" translatable="false">distribuidoraapp-1c333</string>
+    <style name="Base.Theme.AIEPSemana4" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        
+    </style>
+    <style name="Theme.AIEPSemana4" parent="Base.Theme.AIEPSemana4"/>
+</resources>

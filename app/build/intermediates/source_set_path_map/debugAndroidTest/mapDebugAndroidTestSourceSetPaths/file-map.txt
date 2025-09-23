@@ -1,0 +1,6 @@
+com.example.aiepsemana4.test.app-core-1.5.0-0 C:\Users\Lucas\.gradle\caches\8.9\transforms\2a24f62edd47771b22b231760273f232\transformed\core-1.5.0\res
+com.example.aiepsemana4.test.app-annotation-experimental-1.3.0-1 C:\Users\Lucas\.gradle\caches\8.9\transforms\dfe778cbf777609da4829eda793d5f0a\transformed\annotation-experimental-1.3.0\res
+com.example.aiepsemana4.test.app-androidTest-2 C:\Users\Lucas\AndroidStudioProjects\AIEPSemana4\app\build\generated\res\resValues\androidTest\debug
+com.example.aiepsemana4.test.app-mergeDebugAndroidTestResources-3 C:\Users\Lucas\AndroidStudioProjects\AIEPSemana4\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.example.aiepsemana4.test.app-mergeDebugAndroidTestResources-4 C:\Users\Lucas\AndroidStudioProjects\AIEPSemana4\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.example.aiepsemana4.test.app-debugAndroidTest-5 C:\Users\Lucas\AndroidStudioProjects\AIEPSemana4\app\build\intermediates\merged_res\debugAndroidTest\mergeDebugAndroidTestResources
