@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "802110129837",
+    "project_id": "distribuidoraapp-1c333",
+    "storage_bucket": "distribuidoraapp-1c333.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:802110129837:android:1ad103f77b6a100e20a824",
+        "android_client_info": {
+          "package_name": "com.example.aiepsemana4"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHfybzCQK9FRn_47JCTaoRTM5ST_9a7Rc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
