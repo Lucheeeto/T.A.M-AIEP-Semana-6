@@ -84,7 +84,7 @@ Se realizaron pruebas en emulador y dispositivo físico, verificando:
 ## Estado del Proyecto
 Completado - Todas las funcionalidades implementadas y testeadas
 
-##Aprendizajes Adquiridos
+## Aprendizajes Adquiridos
 - Integración completa con Firebase Services
 - Manejo de permisos en tiempo de ejecución
 - Validación robusta de datos de entrada
